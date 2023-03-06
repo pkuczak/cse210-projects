@@ -9,7 +9,12 @@ public class PromptGenerator
         "What was the best part of my day?",
         "How did I see the hand of the Lord in my life today?",
         "What was the strongest emotion I felt today?",
-        "If I had one thing I could do over today, what would it be?"
+        "If I had one thing I could do over today, what would it be?",
+        "What was the biggest mistake you made today?", 
+        "What did you learn today?",
+        "What is the funniest thing that happened to you today?",
+        "What goals did you accomplish today?",
+        "Have you done any good in the world today?"
     };
     
 
